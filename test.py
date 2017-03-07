@@ -1,6 +1,3 @@
 
-
-
-
-def add (a,b) : 
-	print (a + b);
+def add (x, y) :
+	print (x + x);
